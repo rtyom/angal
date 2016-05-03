@@ -1,0 +1,8 @@
+User-agent:*
+Disallow: /
+Host: angal.kz
+
+User-agent: Yandex
+Disallow: /
+Host: angal.kz
+Crawl-delay: 5
